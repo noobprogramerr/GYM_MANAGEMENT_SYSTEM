@@ -1,0 +1,1 @@
+The Online Bookstore is a web-based application that allows users to browse, search, and purchase books online. It features a user-friendly interface, a secure authentication system, and an interactive shopping cart. The project is built using Java (Spring Boot) for the backend, HTML, CSS, JavaScript for the frontend, and MySQL for the database.
